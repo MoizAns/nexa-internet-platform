@@ -176,7 +176,7 @@ export default function Hero() {
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
             <span className="section-tag">
               <span className="w-1.5 h-1.5 rounded-full bg-brand-400 inline-block animate-pulse" />
-              Now live in 50+ cities across India
+              Now live in 50+ areas across Bhiwandi 
             </span>
           </motion.div>
 
