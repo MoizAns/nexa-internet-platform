@@ -16,7 +16,7 @@ export default function Contact() {
             </h3>
 
             <p className="mb-3">
-              📞 +91 98765 43210
+              📞 +91 9323111463
             </p>
 
             <p className="mb-3">
@@ -24,7 +24,7 @@ export default function Contact() {
             </p>
 
             <p>
-              📍 Mumbai, Maharashtra, India
+              📍 Bhiwandi, Maharashtra, India
             </p>
           </div>
 
